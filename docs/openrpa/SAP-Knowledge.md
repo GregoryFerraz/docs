@@ -11,7 +11,7 @@ Sap is not installed by default, you need to specefy this, when running OpenRPA.
 
 ![Install SAP Extension](SAP-Knowledge/Install-SAP-Extension.png)
 
-# Enable SAP Sserver for Scripting
+# Enable SAP Server for Scripting
 
 You can enable scripting by setting the profile parameter sapgui/user_scripting to TRUE. The value set using this procedure will be lost when the system is restarted.
 Contact your administrator to make this setting enabled permenantly.
